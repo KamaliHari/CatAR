@@ -5,5 +5,3 @@ This AR based mobile application will enable hotels to significantly change how 
 # System flow
 ![image](https://user-images.githubusercontent.com/100555747/232201023-bbf051ce-e9e3-4256-87dc-73680d3a9785.png)
 # Working model 
-
-![WhatsApp Image 2023-04-15 at 2 14 52 PM (2)](https://user-images.githubusercontent.com/100555747/232201852-84e6d371-f03f-45a1-a8fa-33d4adc205f9.jpeg)
